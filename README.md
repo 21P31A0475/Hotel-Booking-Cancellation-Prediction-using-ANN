@@ -159,6 +159,5 @@ This project demonstrates the implementation of an Artificial Neural Network for
 The project helps hotels make better business decisions and reduce cancellation-related losses.
 
 ---
-# Author
-## B. Chaitanya
-Artificial Intelligence & Machine Learning Student
+## Author
+#### B. Chaitanya
